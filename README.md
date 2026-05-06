@@ -1,0 +1,2 @@
+# Topic-extraction-and-sentiment-analysis-of-Prefabricated-food-based-on-e-commerce-online-reviews
+Prepared meal reviews were analyzed using 6,000 comments. LDA and SnowNLP were applied after cleaning. Results show logistics, taste, price, and cooking conditions are key factors. Most consumers are positive, but some feedback shows issues. Suggestions are proposed to improve quality and satisfaction.
