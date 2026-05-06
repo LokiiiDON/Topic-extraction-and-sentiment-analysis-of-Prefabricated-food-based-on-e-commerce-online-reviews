@@ -1,3 +1,5 @@
+
+#please pay attention to all comments are write in chinese!
 from DrissionPage import ChromiumOptions, ChromiumPage
 import time
 import pandas as pd
